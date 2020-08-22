@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kbt-portfolio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/kbt-portfolio/static/js/main.7cb873ab.chunk.js",
+    "main.js.map": "/kbt-portfolio/static/js/main.7cb873ab.chunk.js.map",
+    "runtime-main.js": "/kbt-portfolio/static/js/runtime-main.ccc6fd41.js",
+    "runtime-main.js.map": "/kbt-portfolio/static/js/runtime-main.ccc6fd41.js.map",
+    "static/js/2.cf31c0cf.chunk.js": "/kbt-portfolio/static/js/2.cf31c0cf.chunk.js",
+    "static/js/2.cf31c0cf.chunk.js.map": "/kbt-portfolio/static/js/2.cf31c0cf.chunk.js.map",
+    "index.html": "/kbt-portfolio/index.html",
+    "precache-manifest.023bd2066e79a513afae557cc963cbd1.js": "/kbt-portfolio/precache-manifest.023bd2066e79a513afae557cc963cbd1.js",
+    "service-worker.js": "/kbt-portfolio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/kbt-portfolio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cf31c0cf.chunk.js.LICENSE.txt": "/kbt-portfolio/static/js/2.cf31c0cf.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kbt-portfolio/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccc6fd41.js",
+    "static/js/2.cf31c0cf.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7cb873ab.chunk.js"
+  ]
+}
