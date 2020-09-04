@@ -1,24 +1,35 @@
 import React from 'react';
-import logo from './logo.svg';
+import Navbar from "./components/Navbar";
+import Intro from "./components/Intro";
+import AboutMe from "./components/AboutMe";
+import Social from "./components/Social/social"
+import Project from "./components/Project/project"
+import projects from "./components/Project/portfolio.json";
+
 import './App.css';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Navbar />
+        <Intro />
+        <Social />
+        <div className="container">
+        <div className="row" id="portfolio">
+          {projects.map((project) => {
+            // let projectImage = "./images/codeConnect.PNG"
+            // console.log(projectImage)
+            return(<Project
+              name={project.name}
+              description={project.description}
+              image={project.img}
+              link={project.link}
+              ghlink={project.gitHub}
+            />)
+          })}
+          <AboutMe />
+          </div>
+    </div>
     </div>
   );
 }
