@@ -39,7 +39,7 @@
         "name": "Workout Tracker",
         "link": "https://dry-beyond-95347.herokuapp.com/stats",
         "gitHub": "https://github.com/kthorpe1023/workout-tracker",
-        "img": "../public/assets/burger.PNG",
+        "img": "https://raw.githubusercontent.com/kthorpe1023/kbt-portfolio/master/src/components/Project/assets/workout.JPG",
         "description": "This is a full stack application using MySQL as a database deployed through Heroku. Users are able to add burgers to be devoured. When the devoured button is selected, it moves to devoured. Users can delete burgers as well."
     }
 ]
