@@ -14,7 +14,7 @@ const Project = (props) => {
       <div className="card-body">
         <h5 className="card-title">Name: {props.name}</h5>
         <ul>
-        <li>
+        <li className="description">
           <strong>Description:</strong> {props.description}
         </li>
         <li>

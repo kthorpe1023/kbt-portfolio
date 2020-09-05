@@ -2,3 +2,8 @@
     background-color: #555555;
     color: white;
 }
+
+#katie {
+    border-radius: 50%;
+    background-image: url("./KThorpe.PNG")
+}

@@ -6,8 +6,8 @@ const Intro = () => {
         <div className="container">
         <h2>KATIE THORPE</h2>
         <h3>Full Stack Web Developer</h3>
-        <ul>
-            <li>HTML & Css</li>
+        <ul className="li">
+            <li>HTML & CSS</li>
             <li>jQuery</li>
             <li>Javascript (ES6)</li>
             <li>MySQL & MongoDB</li>

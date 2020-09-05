@@ -3,7 +3,7 @@
         "name": "Pantry Pirates",
         "link": "https://kthorpe1023.github.io/project-one/#!",
         "gitHub": "https://github.com/kthorpe1023/project-one",
-        "img": "/images/pantryPirates.PNG",
+        "img": "../public/images/pantryPirates.PNG",
         "description": "A group project creating a website to lookup recipes based on ingredients you have in your pantry. You are also able to lookup an alternative if you are missing an ingreditent. APIs used: Spoonacular, Edamame, and Mapbox"
 
     },
@@ -11,7 +11,7 @@
         "name": "Weather Dashboard",
         "link": "https://kthorpe1023.github.io/weather-dashboard/",
         "gitHub": "https://github.com/kthorpe1023/weather-dashboard",
-        "img": "./components/Project/images/weather.PNG",
+        "img": "../public/images/weather.PNG",
         "description": "Search a city and the current weather as well as the four day forecast will appear. Past cities searched will populate under the search bar so you can look them up again. Technology used: CSS, HTML, Jquery, localStorage, OpenWeather API"
     },
     {
@@ -39,7 +39,7 @@
         "name": "Eat a Burger",
         "link": "https://hidden-atoll-33702.herokuapp.com/",
         "gitHub": "https://github.com/kthorpe1023/eat-a-burger",
-        "img": "./images/burger.PNG",
+        "img": "../public/assets/burger.PNG",
         "description": "This is a full stack application using MySQL as a database deployed through Heroku. Users are able to add burgers to be devoured. When the devoured button is selected, it moves to devoured. Users can delete burgers as well."
     }
 ]

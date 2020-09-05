@@ -1,0 +1,25 @@
+@media (min-width: 600px){
+    .bg{
+  background-image: url("./inspire.jpg");
+  background-size: cover;
+  background-repeat: no-repeat
+}
+}
+
+@media (max-width: 599px){
+    .bg{
+  background-image: url("./bgimage.jpg");
+  background-size: cover;
+  background-repeat: no-repeat
+}
+}
+
+@media (min-width: 800px){
+    .bg{
+      height: 800px;
+      background-image: url("./inspire.jpg");
+      background-size: cover;
+      background-repeat: no-repeat
+}
+}
+
