@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from "./components/Navbar";
 import IntroBG from "./components/IntroBG";
 import AboutMe from "./components/AboutMe";
-// import Social from "./components/Social/social"
+import Contact from "./components/Contact/contact"
 import ProjectBG from "./components/ProjectBG/projectbg"
 // import projects from "./components/Project/portfolio.json";
 
@@ -15,6 +15,7 @@ const App = () => {
         <IntroBG />
           <ProjectBG />
           <AboutMe />
+          <Contact />
           </div>
 
   );

@@ -1,6 +1,10 @@
 .aboutbg {
     background-color: #555555;
     color: white;
+    padding: 15px;
+    position: relative;
+    top: -20px;
+
 }
 
 #katie {

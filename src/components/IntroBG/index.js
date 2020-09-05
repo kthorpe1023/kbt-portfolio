@@ -6,7 +6,7 @@ import './introbg.css'
 
 const IntroBG = () => {
     return(
-        <div className="bg">
+        <div className="bg" id="home">
             <br></br>
             <br></br>
             <br></br>

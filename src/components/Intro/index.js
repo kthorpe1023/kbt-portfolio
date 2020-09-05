@@ -4,8 +4,8 @@ import "./intro.css"
 const Intro = () => {
     return(
         <div className="container">
-        <h2>KATIE THORPE</h2>
-        <h3>Full Stack Web Developer</h3>
+        <h1>KATIE THORPE</h1>
+        <h2>Full Stack Web Developer</h2>
         <ul className="li">
             <li>HTML & CSS</li>
             <li>jQuery</li>
