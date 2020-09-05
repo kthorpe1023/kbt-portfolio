@@ -9,5 +9,10 @@
 
 #katie {
     border-radius: 50%;
-    background-image: url("./KThorpe.PNG")
+    height: 250px;
+    width: 250px;
+}
+
+#aboutme {
+    text-align: center;
 }
