@@ -33,13 +33,13 @@
         "link": "https://cryptic-crag-79236.herokuapp.com/",
         "gitHub": "https://github.com/kthorpe1023/katie-note-taker",
         "img": "https://raw.githubusercontent.com/kthorpe1023/kbt-portfolio/master/src/components/Project/assets/notetaker.PNG",
-        "description": "Using mongoose as a database and deployed through heroku, this application tracks workouts and displays previous data on a dashboard of charts. The front end was provided, and I created code to interact with the database."
+        "description": "Create and delete notes to keep track of your thoughts and tasks. A full stack application deployed through Heroku. This app posts notes to an api route. Anyone entering the site will see my notes."
     },
     {
         "name": "Workout Tracker",
         "link": "https://dry-beyond-95347.herokuapp.com/stats",
         "gitHub": "https://github.com/kthorpe1023/workout-tracker",
         "img": "https://raw.githubusercontent.com/kthorpe1023/kbt-portfolio/master/src/components/Project/assets/workout.JPG",
-        "description": "This is a full stack application using MySQL as a database deployed through Heroku. Users are able to add burgers to be devoured. When the devoured button is selected, it moves to devoured. Users can delete burgers as well."
+        "description": "Using mongoose as a database and deployed through heroku, this application tracks workouts and displays previous data on a dashboard of charts. The front end was provided, and I created code to interact with the database."
     }
 ]

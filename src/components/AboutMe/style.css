@@ -16,3 +16,11 @@
 #aboutme {
     text-align: center;
 }
+
+.linkprop:hover {
+    color: pink;
+}
+
+.linkprop:visited {
+    color: whitesmoke;
+}
