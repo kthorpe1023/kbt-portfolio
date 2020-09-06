@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25f71639981b804992bbecfeefcef6e8",
+    "revision": "6db32bcdaabf8b12d7ce768eb41ad0cf",
     "url": "/kbt-portfolio/index.html"
   },
   {
-    "revision": "f59c0f4711bf63d1a238",
-    "url": "/kbt-portfolio/static/css/main.f1747d08.chunk.css"
+    "revision": "a4786e6b90883c9ef1ad",
+    "url": "/kbt-portfolio/static/css/main.fc214e4a.chunk.css"
   },
   {
     "revision": "27f6414104aa9975e944",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kbt-portfolio/static/js/2.98da04c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f59c0f4711bf63d1a238",
+    "revision": "a4786e6b90883c9ef1ad",
     "url": "/kbt-portfolio/static/js/main.e3d5d351.chunk.js"
   },
   {
@@ -28,11 +28,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kbt-portfolio/static/media/KatieThorpesResumeGH.5a40d9bc.pdf"
   },
   {
-    "revision": "c0c9ed26ac43e07f4f4af9bb2d3986d9",
-    "url": "/kbt-portfolio/static/media/bgimage.c0c9ed26.jpg"
+    "revision": "efbdc1e1fff7dccea694269a25f5e686",
+    "url": "/kbt-portfolio/static/media/bgimage.efbdc1e1.jpg"
   },
   {
-    "revision": "fbd6564aa890b51a5779dcc86495fcc0",
-    "url": "/kbt-portfolio/static/media/inspire.fbd6564a.jpg"
+    "revision": "3ea645c7998f54f67a2e837539dd014b",
+    "url": "/kbt-portfolio/static/media/inspire.3ea645c7.jpg"
   }
 ]);
