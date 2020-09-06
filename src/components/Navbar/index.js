@@ -10,7 +10,7 @@ const Navbar = () => {
           <ul className="right">
             <li><a href="#portfolio"><i className="material-icons">view_module</i></a></li>
             <li><a href="#aboutme"><i className="material-icons">person_pin</i></a></li>
-            <li><a href="./components/Project/images/KatieThorpeResumeGH.pdf" target="_blank"><i className="material-icons">view_list</i></a></li>
+            <li><a href="#contact" target="_blank"><i className="material-icons">email</i></a></li>
           </ul>
         </div>
       </nav>
