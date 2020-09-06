@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6fa7c9b32d929426e902a53804f587e",
+    "revision": "25f71639981b804992bbecfeefcef6e8",
     "url": "/kbt-portfolio/index.html"
   },
   {
-    "revision": "ea7cabd6bfa336e52bc0",
+    "revision": "f59c0f4711bf63d1a238",
     "url": "/kbt-portfolio/static/css/main.f1747d08.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kbt-portfolio/static/js/2.98da04c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ea7cabd6bfa336e52bc0",
-    "url": "/kbt-portfolio/static/js/main.4cc5ea75.chunk.js"
+    "revision": "f59c0f4711bf63d1a238",
+    "url": "/kbt-portfolio/static/js/main.e3d5d351.chunk.js"
   },
   {
     "revision": "bf1aa9e434257aabd90b",
