@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kbt-portfolio/static/css/main.132162b7.chunk.css",
-    "main.js": "/kbt-portfolio/static/js/main.69ef321d.chunk.js",
-    "main.js.map": "/kbt-portfolio/static/js/main.69ef321d.chunk.js.map",
+    "main.js": "/kbt-portfolio/static/js/main.067a2ceb.chunk.js",
+    "main.js.map": "/kbt-portfolio/static/js/main.067a2ceb.chunk.js.map",
     "runtime-main.js": "/kbt-portfolio/static/js/runtime-main.ccc6fd41.js",
     "runtime-main.js.map": "/kbt-portfolio/static/js/runtime-main.ccc6fd41.js.map",
     "static/js/2.98da04c6.chunk.js": "/kbt-portfolio/static/js/2.98da04c6.chunk.js",
     "static/js/2.98da04c6.chunk.js.map": "/kbt-portfolio/static/js/2.98da04c6.chunk.js.map",
     "index.html": "/kbt-portfolio/index.html",
-    "precache-manifest.590dc74a5cf160bd4b5bb53e415ab3d0.js": "/kbt-portfolio/precache-manifest.590dc74a5cf160bd4b5bb53e415ab3d0.js",
+    "precache-manifest.ccdd38692ccba62f5dbffe07b6e4861b.js": "/kbt-portfolio/precache-manifest.ccdd38692ccba62f5dbffe07b6e4861b.js",
     "service-worker.js": "/kbt-portfolio/service-worker.js",
     "static/css/main.132162b7.chunk.css.map": "/kbt-portfolio/static/css/main.132162b7.chunk.css.map",
     "static/js/2.98da04c6.chunk.js.LICENSE.txt": "/kbt-portfolio/static/js/2.98da04c6.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.ccc6fd41.js",
     "static/js/2.98da04c6.chunk.js",
     "static/css/main.132162b7.chunk.css",
-    "static/js/main.69ef321d.chunk.js"
+    "static/js/main.067a2ceb.chunk.js"
   ]
 }
