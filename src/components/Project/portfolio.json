@@ -12,7 +12,14 @@
         "link": "https://kthorpe1023.github.io/weather-dashboard/",
         "gitHub": "https://github.com/kthorpe1023/weather-dashboard",
         "img": "https://raw.githubusercontent.com/kthorpe1023/kbt-portfolio/master/src/components/Project/assets/weather.PNG",
-        "description": "Search a city and the current weather as well as the four day forecast will appear. Past cities searched will populate under the search bar so you can look them up again. Technology used: CSS, HTML, Jquery, localStorage, OpenWeather API"
+        "description": "Search a city and the current weather as well as the four day forecast will appear. Past cities searched will populate under the search bar so you can look them up again. Technologies used: CSS, HTML, Jquery, localStorage, OpenWeather API"
+    },
+    {
+        "name": "Volunteer Calendar",
+        "link": "https://project-03-volunteer-calendar.herokuapp.com/calendar",
+        "gitHub": "https://github.com/kthorpe1023/project-03-volunteer-calendar",
+        "img": "https://raw.githubusercontent.com/kthorpe1023/kbt-portfolio/master/src/components/Project/assets/theOfficeImg.PNG",
+        "description": "Full stack application that allows users to login and mark they are planning to attend volunteer events. I tied the application to the public Google Calendar API for the volunteer coordinator, sent the event ID to the MongoDB, and passed the data through the React components."
     },
     {
         "name": "The Office Employee Search",
