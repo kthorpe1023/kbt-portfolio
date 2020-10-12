@@ -1,5 +1,5 @@
 import React from 'react';
-import pdf from '../Project/assets/KatieThorpesResumeGH.pdf'
+import pdf from '../Project/assets/KatieThorpesCodeResumeGH.pdf'
 import './contact.css';
 
 const Contact = () => {
